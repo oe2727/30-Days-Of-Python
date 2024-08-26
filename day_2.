@@ -1,0 +1,19 @@
+# Day 2: 30 Days of python programming
+ first_name = "Orkhan"
+last_name = "Eyvazov"
+ful_name = "Orkhan Eyvazov"
+Country = "Banan republic"
+City = "Manchester"
+Age = 500
+is_married = False
+print(type(first_name))
+print(type(last_name))
+print(type(ful_name))
+print(type(Country))
+print(type(City))
+print(type(Age))
+print(type(is_married))
+print(len(first_name))
+  if(len(first_name)==len(last_name))
+    print("equal")
+  else(len(dir
